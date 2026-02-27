@@ -5,7 +5,7 @@
 This project presents an executive-level Healthcare Operations Analytics Dashboard designed for a multi-city hospital chain in India.  
 
 The dashboard enables centralized monitoring of patient admissions, operational efficiency, treatment costs, and departmental performance using Power BI and data modeling techniques.
-
+Dashboard Link : "https://app.powerbi.com/reportEmbed?reportId=44eb5add-fbd8-4c65-ad78-67549d732b77&autoAuth=true&ctid=d4963ce2-af94-4122-95a9-644e8b01624d"
 ---
 
 # 🏢 1. Industry Overview
