@@ -151,7 +151,7 @@ This dashboard enables:
 
 (Add your screenshot file below this line)
 
-![Healthcare Dashboard](dashboard-preview.png)
+![Healthcare Dashboard](home-tab.png,Doctor-tab.png,what-if-tab.png)
 
 ---
 
